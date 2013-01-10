@@ -1,3 +1,5 @@
+%Pakeitimas Nr3
+%Pavyzdziui
 %Dabar programa veiks su 10 ats.sk.
 disp('1-iterpimo algoritmas')
 disp('2-isrinkimo algoritmas')
